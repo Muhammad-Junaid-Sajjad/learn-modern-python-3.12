@@ -123,11 +123,3 @@ that these subtle confusing allusions.
     #printing the poem 
 print(poem)
 
-
-
-
-
-
-
-
-
