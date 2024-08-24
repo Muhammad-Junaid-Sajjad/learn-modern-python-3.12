@@ -6,7 +6,7 @@ print(message)
 new_message : str = "\nHello Python & Gen_Ai Developer"
 print(new_message)
 
-new_message : str = "Hello Dear Python Programmer"
+new_message_1 : str = "Hello Dear Python Programmer"
 print(new_message)
 
 #   3-Variable Usage--print person_name & personal_message  
