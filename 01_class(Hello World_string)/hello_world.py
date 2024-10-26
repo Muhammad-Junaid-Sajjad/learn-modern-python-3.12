@@ -1,1 +1,2 @@
-print("hello FAREED younas")
+print("Hello World!")
+print("HI Python Lovers !")
