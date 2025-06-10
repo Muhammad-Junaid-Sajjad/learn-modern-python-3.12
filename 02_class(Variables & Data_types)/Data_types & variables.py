@@ -15,7 +15,7 @@ message : str = f"\nHello {name}, Would You like to Learn some Python today?"
 print(message)
 
 #   4-Print the person’s name in lowercase, uppercase, and title case.
-name : str = "hanzla saleem"
+name : str = "Hanzla saleem"
 print(name.upper())
 print(name.title())
 print(name.capitalize())
@@ -112,7 +112,7 @@ poem = '''\nLove has nothing to do with the five senses and the six directions:
 
 \nits goal is only to experience the attraction exerted by the Beloved.
 
-\nAfterwards, perhaps, permission will come from God:
+\nAfterwards perhaps, permission will come from God:
 
 \nthe secrets that ought to be told with be told with an eloquence nearer to the understanding
 that these subtle confusing allusions.
